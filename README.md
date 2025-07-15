@@ -2,10 +2,10 @@
 
 Implementation of **Generalized Mixup** – an extension of the classic *mixup* data-augmentation technique that adaptively re-weights the pairing distribution using the model’s confusion matrix.  The codebase supports experiments on **CIFAR-10** and **CIFAR-100** with *standard*, *weighted*, and *ERM* (no mixup) baselines.
 
-The method is introduced in the our paper:
+The method is introduced in our paper:
 
-> *From Confusion to Clarity – Generalized Mixup*  
-> COSC278 – Deep Learning, Dartmouth College, Spring 2024
+> [*From Confusion to Clarity – Generalized Mixup*](https://github.com/Maruf001/generalized_mixup_model/blob/main/From%20Confusion%20to%20Clarity%20%E2%80%93%20Generalized%20Mixup.pdf)  
+> COSC278 – Deep Learning, Dartmouth College, Spring 2024
 
 The report is included (`From Confusion to Clarity – Generalized Mixup.pdf`).
 
