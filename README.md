@@ -1,4 +1,4 @@
-# Generalized Mixup (CS278 Final Project)
+# Generalized Mixup Model 
 
 Implementation of **Generalized Mixup** – an extension of the classic *mixup* data-augmentation technique that adaptively re-weights the pairing distribution using the model’s confusion matrix.  The codebase supports experiments on **CIFAR-10** and **CIFAR-100** with *standard*, *weighted*, and *ERM* (no mixup) baselines.
 
